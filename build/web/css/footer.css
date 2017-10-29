@@ -1,0 +1,326 @@
+/* /Phần footer */
+#footer {
+    background: #F1F1F1;
+    margin-top: 60px;
+    padding-top: 20px;
+}
+.site-footer{
+    background-color: #222;
+    color: #fff;
+    margin-top: 25px;
+    padding-top: 20px;
+}
+.bottom-footer{
+    border-top: 1px solid #b2b2b2;
+    margin-top: 10px;
+    padding-top: 10px;
+    color: #b2b2b2;
+}
+.footer-nav {
+    text-align: right;
+    list-style: none;
+}
+.footer-nav li{
+    display: inline;
+    padding: 0px 5px;
+}
+.footer-nav li:not(:first-child):before{
+    content: '|';
+    padding:  0px 5px;
+}
+.footer-nav a{
+    color:  #b2b2b2;
+}
+.footer-nav a:hover{
+    color: #fff;
+    text-decoration: none;
+}
+.connect p{
+    text-align: center;
+    font-size: 310px;
+
+}
+.tit-footer {
+    display: block;
+    width: 100%;
+    color: #fff;
+    margin-left: 20px;
+    text-align: center;
+    font-size: 20px;
+}
+
+h4 {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+    padding: 0;
+}
+.footer-social {
+    width: 100%;
+    margin: 15px 0 0 0;
+}
+.fa {
+    display: inline-block;
+    font: 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+}
+.clearfix
+{
+
+    text-align: center;
+    margin-right: 30px;
+}
+.descript{
+    text-align: left;
+    margin-left: 25px;
+}
+.icon_footer{
+    height: 40px;
+    width: 40px;
+    font-size: 40px;
+    text-align: center;
+    margin-left: 25px;
+}
+.navbar-header .navbar-brand{
+    color: blue;
+}
+h4{
+    font-size: 16px;
+    margin-top:20px;
+}
+.navbar-inverse .navbar-nav>li>a {
+    color: #000000;
+}
+.navbar-inverse .navbar-nav>li>a:hover {
+    color: #B904FD;
+    background-color: transparent;
+}
+.scroll_bar{
+    padding: 3em 1em;
+    word-break: break-word;
+}
+img#img_logo{
+    display: block;
+    margin-left: auto; 
+    margin-right: auto;
+    height: 80px;
+}
+p#txt_body_1{
+    font-size: 40px;
+    font-weight: bold;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 30px;
+    text-align: center;
+    font-family:jaf-facitweb, Helvetica Neue,Arial,sans-serif;
+}
+p#txt_body_2{
+    font-size: 22px;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 20px;
+    text-align: center;
+}
+.btn-signup{
+    width: 280px;
+    background-color: #519839;
+    font-weight: bold;
+    color: white;
+    font-size: 20px;
+    height: 50px;
+    text-align: center;
+}
+a#btn_login{
+    width: 200px;
+    margin-top: 20px;
+    height: 50px;
+    text-align: center;
+    color: white;
+    background-color: orange;
+}
+.body-2{
+    background-color: #0079bf;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+p#txt_body_4{
+    font-size: 20px;
+    margin-left: 300px;
+    margin-right: 300px; 
+    color: white;
+    text-align: center;
+}
+p#txt_body_3{
+    font-size: 20px;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-bottom: 40px;
+    color: white;
+    text-align: center;
+}
+.image_index{
+    margin-right: 50px;
+    margin-left: 50px;
+    text-align: center;
+}
+img#img_home{
+    background-size: cover;
+    max-width: 100%;
+    max-height: 100% ;
+    width:90%;
+    height: 90%;
+     margin-bottom: 40px;
+}
+img#img_home_2{
+    background-size: cover;
+    max-width: 100%;
+    max-height: 100% ;
+    width:70%;
+    height: 70%;
+     margin-bottom: 40px;
+}
+p#txt_body_5{
+    font-size: 20px;
+    margin-left: 310px;
+    margin-right: 310px; 
+    color: black;
+    text-align: center;
+}
+.btn-view{
+    background-color: #D6F8D6;
+    height: 55px;
+    width: 340px;
+    text-align: center;
+    color:  black;
+    font-size: 20px;
+    margin-bottom: 40px;
+}
+p#txt-body-4{
+    font-size: 20px;
+    margin-top: 120px;
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+p#txt-body-5{
+    font-size: 20px;
+    margin-top: 100px;
+    margin-left: 200px;
+    margin-right: 100px;
+}
+p#txt-body-6{
+    font-size: 20px;
+    margin-left: 70px;
+    margin-right: 100px;
+    color: white;
+    text-align: center;
+    margin-bottom: 30px;
+}
+p#txt-body-7{
+    font-size: 20px;
+    margin-top: 50px;
+    text-align: center;
+    margin-left: 50px;
+    color: white;
+    margin-right: 120px;
+}
+.btn-view-application{
+    text-align: center;
+    background-color: #DDEBFB;
+    height: 45px;
+    font-size: 20px;
+}
+img{
+    vertical-align: left;
+}
+p#trello-text{
+    text-align: left;
+    font-size: 20px; 
+    color: white;
+    margin-left: 20px;
+    margin-top: 130px;
+}
+p#trello-text-mb{
+    text-align: left;
+    font-size: 20px; 
+    margin-left: 20px;
+    margin-top: 130px;
+}
+p#trello-text-sticket{
+    text-align: left;
+    font-size: 20px; 
+    margin-left: 300px;
+    margin-top: 60px;
+    margin-right: 300px;
+}
+p#trelo-gold-txt2{
+    font-size: 20px;
+    margin-top: 100px;
+    margin-right: 10px;
+    text-align: left;
+}
+h5{
+    text-align: center;
+    margin-left: 350px;
+    margin-right: 350px;
+    font-size: 18px;
+    line-height: 1.5;
+    margin-bottom: 30px;
+}
+.btn-trello-gold{
+    border: 1px solid #5e98ba;
+    background-color: white;
+    color: #5e98ba;
+    width: 280px;
+    text-align: center;
+    margin-left: 540px;
+    font-size: 18px;
+}
+/*share*/
+h6{
+    text-align: center;
+    font-weight: bold;
+    font-size: 22px;
+}
+.progress{
+    margin-top: 50px;
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-bottom: 150px;
+    background-color: #d9d9d9;
+}
+.circle {
+    width: 100px;
+    height: 100px;
+    font-weight: bold;
+    font-size: 40px;
+    background: #D6DADC;
+    text-align: center;
+    padding: 22px;
+    -moz-border-radius: 60px;
+    -webkit-border-radius: 60px;
+    border-radius: 60px;
+    margin-top: 30px;
+    margin-left: 300px;
+}
+p#trello-share{
+    text-align: left;
+    font-size: 18px; 
+    margin-top: 5px;
+}
+p#trello-share-1{
+    text-align: left;
+    font-size: 18px; 
+}
+p#taco{
+    font-size: 28px;
+    color: white;
+    margin-left: 30px;
+    font-weight: bold;
+    margin-top: 80px;
+    text-align: center;
+}

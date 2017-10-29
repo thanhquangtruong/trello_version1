@@ -1,0 +1,210 @@
+p#title{
+	font-size: 40px;
+	text-align: center;
+	margin-top: 90px;
+	margin-left: 60px;
+	margin-right: 60px;
+	margin-bottom: 70px;
+	font-weight: bold;
+}
+p#title-browser{
+	font-size: 28px;
+	text-align: center;
+	margin-top: 50px;
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-bottom: 70px;
+	font-weight: bold;
+}
+.row{
+	text-align: center;
+	margin-left: 90px;
+	margin-right: 150px;
+}
+p#title-img{
+	font-size: 30px;
+	margin-left: 70px;
+	text-align: center;
+	margin-top: 10px;
+	margin-bottom: 15px;
+	font-weight: bold;
+}
+img#icon-mobile{
+	height: 48px;
+	width: 138px;
+	margin-bottom: 15px;
+	margin-left: 50px;
+	max-width: 100%;
+	max-height: 100%;
+}
+img#icon-desktop{
+	height: 48px;
+	width: 138px;
+	margin-bottom: 15px;
+	margin-left: 65px;
+	max-width: 100%;
+	max-height: 100%;
+}
+.btn-view-trello{
+	height: 45px;
+	width: 200px;
+	color: white;
+	margin-left: 20px;
+	background-color: #5aac44;
+	font-size: 22px;
+	text-align: center;
+}
+.btn-login{
+	height: 45px;
+	width: 260px;
+	color: white;
+	margin-left: 20px;
+	background-color: #61bd4f;
+	font-size: 22px;
+	text-align: center;
+}
+.btn-download{
+	height: 45px;
+	width: 150px;
+	background-color: #e2e4e6;
+	font-size: 20px;
+	margin-top: 20px;
+	margin-bottom: 70px;
+}
+p#title-browser-2{
+	text-align: center;
+	margin-top: 20px;
+	font-size: 18px;
+}
+img#img-business{
+	width: 30%;
+	margin-top: 100px;
+	height: 30%;
+	max-height: 100%;
+	max-width: 100%;
+}
+p#txt-business-1{
+	font-size: 32px;
+	text-align: center;
+	color: white;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+p#txt-trello-gold{
+	font-size: 32px;
+	text-align: center;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+p#txt-business{
+	font-size: 20px;
+	text-align: center;
+	color: white;
+	margin-left: 280px;
+	margin-right: 280px;
+	margin-bottom: 30px;
+}
+p#txt-business-2{
+	font-size: 20px;
+	text-align: center;
+	color: white;
+	margin-top: 30px;
+	margin-left: 280px;
+	margin-right: 280px;
+	margin-bottom: 10px;
+}
+img#img-business-2{
+	width: 60%;
+	margin-top: 10px;
+	height: 60%;
+	max-height: 100%;
+	max-width: 100%;
+}
+img#img-business-3{
+	width: 100%;
+	margin-top: 10px;
+	height: 100%;
+	max-height: 100%;
+	max-width: 100%;
+}
+p#txt-business-3{
+	font-size: 22px;
+	text-align: center;
+	color: white;
+	font-weight: bold;
+	margin-top: 60px;
+	margin-left: 40px;
+	margin-right: 40px;
+	margin-bottom: 30px;
+}
+p#txt-business-4{
+	font-size: 18px;
+	text-align: center;
+	color: white;
+	margin-top: 30px;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-bottom: 30px;
+}
+p#txt-business-5{
+	font-size: 20px;
+	text-align: center;
+	color: white;
+	margin-top: 60px;
+	margin-left: 360px;
+	margin-right: 360px;
+	margin-bottom: 30px;
+}
+hr{
+	margin-bottom: 40px;
+	size: 20px;
+}
+img#img-mail{
+	max-width: 100%;
+	max-height: 100%;
+	height: 50%;
+	width: 50%;
+	margin-left: 150px;
+}
+.row-business{
+	margin-left: 290px;width: 80%;
+	max-height: 100%;
+	max-width: 100%;
+}
+.background{
+	 height: 550px;
+	 background-color:#42548e;
+}
+p#txt-business-6{
+	font-size: 20px;
+	text-align: center;
+	color: white;
+	margin-top: 10px;
+	margin-left: 280px;
+	margin-right: 280px;
+	margin-bottom: 10px;
+}
+h2{
+	font-size: 23px;
+	font-weight: bold;
+}
+.btn-update{
+	height: 45px;
+	width: 160px;
+	margin-left: 20px;
+	background-color: #61bd4f;
+	font-size: 18px;
+	text-align: center;
+}
+h3{
+	text-align: center;
+	font-size: 20px
+}
+.btn-power{
+	height: 45px;
+	width: 260px;
+	margin-left: 20px;
+	background-color: #0c3953;
+	font-size: 18px;
+	text-align: center;
+}

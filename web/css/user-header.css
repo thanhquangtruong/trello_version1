@@ -1,0 +1,146 @@
+.table{
+    width: 400px;
+    float: left;
+    margin-top: 5px;
+    margin-left: -100px;
+}
+h5{
+    text-align: center;
+    font-weight: normal;
+    margin-top: 7px;
+}
+li a.user-item{
+   font-weight: bold
+}
+.dropdown{
+    margin-top: 8px;margin-left: 5px;
+}
+li ul h3{
+    font-size: 15px;
+    text-align: center;
+}
+li ul h2{
+    text-align: center;
+    font-size: 18px;
+}
+.notify{
+    margin-top: 10px;width: 400px;background-color: #f4f2f2
+}
+img#img-tips{
+    max-width: 100%;
+    width: 85%;
+    height: 85%;
+    margin-left: 23px;
+    max-height: 100%;
+}
+.btn-basic{
+    margin-left: -45px;
+    margin-right: 100px;
+    font-size: 14px;
+    margin-top: 10px;
+    text-align: center;
+    width: 400px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+a#tips{
+    text-align: center;
+    margin-left: 90px;
+    font-size: 16px;
+}
+li a.tips-item{
+   text-decoration: underline;
+   text-align: center;
+}
+ul .tips-item-2{
+    margin-left: 80px;
+}
+div#myNavbar{
+    margin-right: 70px;
+}
+.logo{
+    margin-left: 170px;
+    margin-top: -6px;
+}
+
+/* search form*/
+    body {
+  padding : 10px ;
+  
+}
+.tab-pane{
+    margin-top: 30px;
+    font-size: 18px;
+    margin-left: 120px;
+}
+#exTab2 .tab-content {
+  padding : 5px 15px;
+}
+
+#exTab2 h3 {
+  color : black;
+  padding : 5px 15px;
+}
+.list-actions {
+    border-style: dotted;
+    border: 1px dotted;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    border-radius: 10px;
+    text-align: center;
+}
+a#load-list-action{
+    color: #444;
+    font-size: 17px;
+}
+.big-link {
+    border-radius: 3px;
+    display: block;
+    margin: 6px 0 6px 40px;
+    padding: 11px;
+    position: relative;
+    font-size: 1pc;
+    line-height: 20px;
+}
+
+.big-link, .button, .button-link {
+    text-decoration: none;
+}
+
+a.big-link {
+    color: #444;
+}
+
+a.big-link {
+    background-color: #D6DADC;
+}
+h4{
+    margin-left: 40px;
+}
+h7{
+    font-size: 14px;
+    margin-left: 30px;
+}
+h6{
+    font-weight: bold;
+    margin-top: 20px;
+    font-size: 15px; 
+    margin-left: 30px;
+}
+.mail{
+    margin-left: 50px;
+    width: 300px;height: 100px; background-color: #D6DADC;text-align: left;
+}
+a.big-link-del{
+    font-size: 14px;
+    margin-left: 50px;
+}
+a.sort{
+    color: #444;
+    margin-left: 60px;
+    text-decoration: underline;
+    font-size: 15px;
+    background-color: #F4F2F2;
+}

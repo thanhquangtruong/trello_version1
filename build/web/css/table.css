@@ -1,0 +1,350 @@
+.btn-table-welcom{
+	background-color: rgb(75, 191, 107);
+	margin-top: -15px;
+	margin-left: -100px;
+	color: white;
+	font-size: 18px;
+	font-weight: bold;
+}
+.circle {
+    width: 100px;
+    height: 100px;
+    font-weight: bold;
+    font-size: 40px;
+    background: #D6DADC;
+    text-align: center;
+    padding: 22px;
+    -moz-border-radius: 60px;
+    -webkit-border-radius: 60px;
+    border-radius: 60px;
+    margin-top: 30px;
+    margin-left: 300px;
+}
+.btn-table-welcom:hover{
+	background-color: rgba(0,0,0,.12);
+}
+.glyphicon-star-empty{
+	margin-left: -40px;
+	}
+.glyphicon-lock{
+	
+	margin-top: 3px;
+		}
+.glyphicon-lock:hover{
+	background-color: rgba(0,0,0,.12);
+}
+.private{
+	background-color: rgb(75, 191, 107);
+	margin-top: -17px;
+	margin-left: -120px;
+	color: white;
+	font-size: 18px;
+	font-weight: bold;
+}
+.btn-access{
+	background-color: rgb(75, 191, 107);
+	margin-top: -15px;
+	margin-left: -170px;
+	color: white;
+	font-size: 16px;
+	font-weight: normal;
+}
+.sub-access{
+	font-size: 12px;
+	color: black;
+	text-align: left;
+}
+.sub-access {
+    border-radius: 3px;
+    display: block;
+    text-decoration: none;
+    position: relative;
+    font-size: 12px;
+    line-height: 20px;
+}
+.sub-access {
+    color: #444;
+}
+
+.sub-access:hover {
+    background-color: #D6DADC;
+}
+.show-menu{
+	float: right;
+	text-align: right;
+	font-size: 16px;
+	margin-top: -5px;
+	background-color: rgb(75, 191, 107);
+	color: white;
+}
+.show-menu:hover{
+	background-color: rgba(0,0,0,.12);
+}
+.list-job{
+	border-style: solid;
+    border: 1px solid #E2E4E6;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    border-radius: 5px;
+    text-align: center;
+    width: 270px; 
+    height: auto;
+    margin-right:10px;
+    margin-left: 30px;
+    background-color: #E2E4E6;
+    margin-bottom: 20px;
+}
+.glyphicon-option-horizontal{
+	margin-left: 0px;
+}
+p#job-title{
+	text-align: left;font-size: 14px;font-weight: bold; margin-left: 10px;
+}
+img#img-job-title{
+	width: 95%;
+	margin-left:2px;
+	margin-bottom: 8px;
+	height: 100%;
+}
+.job-option{
+	background-color: white; margin-left: 5px; margin-right: 5px;
+}
+.job-item{
+	background-color: white; margin-left: 5px; margin-right: 5px;
+	margin-top: 5px;
+}
+p#txt-job{
+	text-align: left;margin-left: 10px;margin-right: 10px;margin-bottom: 5px;
+
+}
+button#btn-modal{
+	text-align: left;
+	background-color: white;
+	border: 1px solid white;
+}
+div#Table-Welcom1.popover{  width:800px;
+}
+img#image-modal{
+	height: 30%;
+	width: 30%;
+	margin-left: 300px;
+	text-align: center;
+}
+p#title-modal-1{
+	margin-left: 10px;
+	font-weight: bold;
+	font-size: 20px;
+}
+p#tiltle-modal-2{
+	color: black;
+	margin-left: 40px;
+}
+img#url-daidien{
+	height: 100%;
+	width: 100%;
+	margin-left: 30px;
+	margin-bottom: 20px;
+}
+p#name-img{
+	text-align: left ;
+	font-weight: bold;
+	font-size: 18px;
+	margin-left: 10px;
+}
+p#time-upload{
+	margin-left: 10px;
+}p#tiltle-modal-3{
+	margin-left: 30px;
+	font-weight: bold;
+	font-size: 17px;
+}
+.btn-modal{
+	width: 200px;
+	height: 35px;
+	text-align: left;
+	margin-bottom: 10px;
+	margin-left: 40px;
+}
+label#txt-welcom{
+	font-size: 12px;
+	font-weight: bold;}
+a#txt-welcom{
+	font-size: 14px;
+	color: black;
+	font-weight: bold;}
+label#txt-welcom:hover{
+	background-color: blue;
+}
+.popover-title {
+    padding: 8px 14px;
+    margin: 0;
+    font-weight: bold;
+    font-size: 16px;
+    text-align: center;
+    background-color: #f7f7f7;
+    border-bottom: 1px solid #ebebeb;
+    border-radius: 5px 5px 0 0;
+}
+div.bottom{
+	width: 1000px;
+	}
+.big-card {
+    border-radius: 3px;
+    display: block;
+    padding: 4px;
+    position: relative;
+    font-size: 14px;
+    font-weight: bold;
+    color: black;
+    line-height: 20px;
+    text-decoration: none;
+}
+.big-card:hover{
+	background-color: #D6DADC;
+}
+.big-table {
+    border-radius: 3px;
+    display: block;
+    padding: 4px;
+    position: relative;
+    font-size: 14px;
+    color: black;
+    margin-left: 5px;
+    padding-top: 10px;
+    line-height: 20px;
+    text-decoration: none;
+}
+.big-table:hover{
+	background-color: #D6DADC;
+}
+hr#a{
+	margin-top: -5px;
+}
+.show-menu-card{
+	margin-top: 10px;width: 500px;float: right; margin-right: -70px;
+	background-color: #EDEFF0;
+}
+p#menu{
+	font-weight: bold;
+	font-size: 18px;
+	text-align: center;
+}
+.avatar {
+    width: 40px;
+    height: 40px;
+    font-weight: bold;
+    font-size: 40px;
+    background: #D6DADC;
+    text-align: center;
+    padding: 10px;
+    -moz-border-radius: 20px;
+    -webkit-border-radius: 20px;
+    border-radius: 20px;
+    margin-left:10px;  	
+}
+.btn-adduser{
+	height: 35px;
+	width: 450px;
+	text-align: left;
+	margin-left: 20px;
+}
+.btn-menu-item{
+	height: 35px;
+	width: 450px;
+	background-color: #EDEFF0;
+	font-weight: bold;
+	font-size: 15px;
+	text-align: left;
+	margin-left: 20px;
+	border: #EDEFF0
+}
+.change-background{
+	background-color:green;
+	width: 60px; 
+}
+/* index_user*/
+.table-user{
+	float: left;
+	margin-left: 60px;
+	font-size: 16px;
+}
+.create-tb{
+	width: 300px;
+	height: 100px;
+	margin-left: 40px;
+	background-color: rgb(75, 191, 107);
+	color: white;
+	font-weight: bold;
+}
+.member{
+	padding-top: 10px;
+	margin-left: 50px;
+	width: 200px;
+}
+p#setting-card{
+	font-size: 16px;
+}
+p#setting-card-item{
+	font-size: 14px;
+}
+p#setting-card-member{
+	
+	text-align: center;
+}
+hr#b{
+	border: 1px solid white;
+}
+p#setting-lock{
+	margin-left: 40px;
+	margin-right: 40px;
+	font-size: 14px;
+	margin-top: 20px;
+}p#setting-lock-item{
+	margin-left: 20px;
+	margin-right: 20px;
+	font-size: 14px;
+	margin-top: 20px;
+}
+.member-circle {
+    width: 40px;
+    height: 40px;
+    margin-left: 30px;
+    font-weight: bold;
+    font-size: 20px;
+    background: #D6DADC;
+    text-align: center;
+    padding: 7px;
+    -moz-border-radius: 20px;
+    -webkit-border-radius: 20px;
+    border-radius: 20px;
+    margin-top: 20px;
+}
+p#user-txt{
+	margin-top: 20px;
+	margin-left: 30px;
+	font-size: 14px;
+	font-weight: bold;
+}
+p#user-txt-name{
+	margin-top: -10px;
+	margin-left: 30px;
+	font-size: 14px;
+}
+.btn-remove{
+	width: 250px;
+	float: right;
+	background-color: #D6DADC;
+}
+.list-member-2{
+	margin-left: -300px;
+	width: 250px;
+}
+.view-notify{
+	border: 0px solid black;
+	text-align: left;
+	margin-left: 10px;
+	margin-bottom: 3px;
+	width: 280px;
+}
